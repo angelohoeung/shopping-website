@@ -34,6 +34,8 @@ php -S localhost:8000
 3. Enter credentials into `.env`
 4. Deploy
 
+## Screenshots
+
 ![image](https://github.com/user-attachments/assets/ef25b824-94e9-4e86-a698-655dc3effb0e)
 
 ![image](https://github.com/user-attachments/assets/7eab73d6-1274-4b26-88a7-958c956edf0f)
